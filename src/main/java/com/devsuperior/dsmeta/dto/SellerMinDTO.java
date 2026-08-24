@@ -1,9 +1,5 @@
 package com.devsuperior.dsmeta.dto;
 
-import com.devsuperior.dsmeta.entities.Seller;
-
-import java.util.List;
-
 public class SellerMinDTO {
 
     private String sellerName;
